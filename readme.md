@@ -43,3 +43,12 @@ JavaScript:實際建構者(功能)
 
 
 
+# Day42  
+表格的使用方式
+<table>
+<tr> ==><table row>   列
+<td> ==><table data>  資料
+<tbody>
+<tfoot>
+
+365.
