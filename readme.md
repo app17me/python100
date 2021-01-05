@@ -1,4 +1,4 @@
-## Day32
+# Day32
 學習有關電子郵件SMTP和日期時間模組的用法。
 
 ## 中文問題  
@@ -14,3 +14,32 @@ msg=mime.as_string()
 ## 練習題
 自動發送email程式
 exercise
+
+# Day41  
+學習HTML&CSS  
+google==>216.58.210.46  
+文件；HTML，CSS和JavaScript  
+HTML:網站的架構  
+CSS:網站的外觀  
+JavaScript:實際建構者(功能)  
+<h1>~<h6>
+字級大小
+<p>
+段落
+<br>
+換行
+<em>
+斜體
+<strong>
+粗體
+<ul><li>
+無序列表
+<ol><li>
+有序列表
+<img src=" " alt="圖形未顯示得提示字 ">
+讀取圖形 
+<a href=" ">提示文字</a>
+連結路徑  
+
+
+
