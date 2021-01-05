@@ -44,11 +44,14 @@ JavaScript:實際建構者(功能)
 
 
 # Day42  
-表格的使用方式
+1.表格的使用方式
 <table>
 <tr> ==><table row>   列
 <td> ==><table data>  資料
 <tbody>
 <tfoot>
 
-365.
+
+2.使用form表單輸入資料
+3.網站上傳github
+4.https://app17me.github.io/cv/
