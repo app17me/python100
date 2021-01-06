@@ -1,0 +1,32 @@
+body {
+    background-color: #f9f7f7;
+}
+
+table-style{
+    background-color: #DBE2EF;
+}
+
+hr{
+    border-color: grey;
+    border-width: 5px;
+    border-style: none;
+    border-top-style: dotted;
+    height: 0px;            
+    width:10%;
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    background-color: white;
+    width: 150px;
+  }
+  
+h1{
+    color: #3f72af;
+}
+
+h2{
+    color:#112D4E;
+}
