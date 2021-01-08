@@ -71,3 +71,13 @@ class selectors可以套用多個
 
 # Day44
 1.css 進階用法
+
+
+
+# Day45
+1.基礎爬蟲(BeautifulSoup & requests)
+
+2.使用tag,id,class
+3.使用find,find_all
+4.使用select_one,select 查找css
+5.getText(),get('href'),get('src')
