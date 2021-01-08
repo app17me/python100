@@ -1,0 +1,13 @@
+/*********** tag selectors ******************/
+
+
+body{
+
+    background-color: #e8eae6;
+}
+
+h1 {
+    background-color: blue;
+    color: yellow;
+    font-size: 100px;
+}

@@ -55,3 +55,19 @@ JavaScript:實際建構者(功能)
 2.使用form表單輸入資料
 3.網站上傳github
 4.https://app17me.github.io/cv/
+
+
+# Day43
+1.css使用方式
+2.inner
+3.head
+4.css file
+
+5.tag selectors
+6.class selectors
+7.id selectors
+
+class selectors可以套用多個
+
+# Day44
+1.css 進階用法
