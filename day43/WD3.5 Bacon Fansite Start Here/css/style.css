@@ -1,0 +1,59 @@
+/***********************************TAG SELECTORS****************************/
+
+body {
+    background-color: red;
+}
+
+h1 {
+    background-color: yellow;
+    color: darkred;
+    font-size: 100px;
+    font-style: italic;
+}
+
+img {
+    background-color: antiquewhite;
+}
+
+img:hover {
+    background-color: blue;
+}
+
+
+/***********************************CLASS SELECTORS****************************/
+
+.bacon {
+    background-color: green;
+    border: 2px solid #ffffff;
+    border-radius: 4px;
+    padding: 5px;
+    width: 120px;
+}
+
+.broccoli {
+    background-color: yellow;
+    border: 2px solid #ffffff;
+    border-radius: 4px;
+    padding: 5px;
+    width: 120px;
+}
+
+.circular {
+    border-radius: 100%;
+}
+
+/* 
+img{
+    border:2px solid #ffffff;
+    border-radius: 4px;
+    padding: 5px;
+    background-color: green;
+    width: 120px;
+        
+} */
+
+/******************************ID SELECTORS**********************************/
+
+#heading {
+    color: blue;
+}
